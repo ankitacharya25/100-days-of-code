@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: July 14, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Solved a Edit Distance question & unedrstood concepts of Dynamic Programming.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I used Tabulation to solve the problem with O(mxn) space & time complexity. Next I'm looking forward to solving the same problem using Memoisation which will help to reduce the space complexity to O(m).
 
-**Link to work:** [Calculator App](http://www.example.com
+**Link to work:** []()
