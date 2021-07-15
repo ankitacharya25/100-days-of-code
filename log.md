@@ -12,7 +12,9 @@
 
 **Today's Progress**: 1) Solved a LCS question & understood concepts of Recursion.
 2) Solved LCS question with Memoization.
+3) Solved LCS with Tabulation
 
 **Thoughts:** I used Recursion to solve the problem with O(2^n) time complexity. This was  naive recursive approach. and I will try the same with DP next time.
+Edit: I solved the DP based technique to solve the problem in O(mxn) time.
 
 **Link to work:** []()
