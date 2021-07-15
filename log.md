@@ -10,7 +10,8 @@
 
 ### Day 01: July 15, 2021
 
-**Today's Progress**: 1) Solved a LCS question & unedrstood concepts of Recursion.
+**Today's Progress**: 1) Solved a LCS question & understood concepts of Recursion.
+2) Solved LCS question with Memoization.
 
 **Thoughts:** I used Recursion to solve the problem with O(2^n) time complexity. This was  naive recursive approach. and I will try the same with DP next time.
 
