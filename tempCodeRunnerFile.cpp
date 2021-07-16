@@ -2,13 +2,10 @@
 using namespace std;
 
 int main(){
-  int arr[5][5];
-  memset(arr, -1, sizeof(arr));
-  for(int i = 0; i < 5; i++){
-    for(int j = 0; j < 5; j++){
-        cout << arr[i][j];
-      }
-    cout << "\n";
-  }
+  vector <pair<int, int>> arr = {{120, 30}, {100,20}, {60,10}};
+  int w = 50;
+  int n = arr.size();
+  cout << n;
+  cout << arr.first;
   return 0;
 }
