@@ -19,3 +19,12 @@
 Edit: I solved the DP based technique to solve the problem in O(mxn) time.
 
 **Link to work:** []()
+
+### Day 02: July 16, 2021
+
+**Today's Progress**: 1) Solved minimum cost triplets question.
+
+
+**Thoughts:** I used simple if else logic to solve the problem in O(N^2) time after optimising it from O(N^3)
+
+**Link to work:** []()
