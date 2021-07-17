@@ -34,6 +34,7 @@ Edit: I solved the DP based technique to solve the problem in O(mxn) time.
 
 **Today's Progress**: 1) Solved Maximal Square Problem using DP
 Q. In a 2-D Binary matrix filled with 0's and 1's, find the area of the largest square containing only 1's. (Leetcode)
+2) Binary Search to find the peak element in array in O(logN) time
 
 **Thoughts:** 
 
