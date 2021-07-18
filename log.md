@@ -43,6 +43,7 @@ Q. In a 2-D Binary matrix filled with 0's and 1's, find the area of the largest 
 ### Day 04: July 18, 2021
 
 **Today's Progress**: 1) Contiguous subarray with maximum sum O(n)
+2) Minimum steps in infinte Grid(InterviewBit).
 
 
 **Thoughts:** 
