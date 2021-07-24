@@ -49,3 +49,15 @@ Q. In a 2-D Binary matrix filled with 0's and 1's, find the area of the largest 
 **Thoughts:** 
 
 **Link to work:** []()
+
+### Day 05 - Day 09 : July 18, 2021 - July 22, 2022
+
+Practice on InterviewBit
+
+### Day 10: July 23, 2021
+
+**Today's Progress**: 1) Fibonacci using DP
+2) Find and return the indexes of a string where anagrams of another string are found
+**Thoughts:** 
+
+**Link to work:** []()

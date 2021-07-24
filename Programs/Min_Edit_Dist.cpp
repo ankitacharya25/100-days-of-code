@@ -9,7 +9,7 @@ int Edit_Dist(string s1, string s2, int m, int n){
     dp[i][0] = i;
   }
   for (int j = 0; j <= n; j++){
-  dp[0][j] = j;
+    dp[0][j] = j;
   }
   for (int i = 1; i <= m; i++){
 
