@@ -61,3 +61,19 @@ Practice on InterviewBit
 **Thoughts:** 
 
 **Link to work:** []()
+
+### Day 18: July 31, 2021
+
+**Today's Progress**: 1) Practice all the tree problems right from the basics
+
+Day 22: August 04, 2021
+
+**Today's Progress**: 1) Merge Two sorted arrays
+2) Repeated and missing in array
+
+Day 23: August 05, 2021
+
+**Today's Progress**: 1) Solved InterviewBit problems, Leetcode Easy & Medium
+2)Maximum Product Subarray
+3) Maximum Subarray Sum
+4)Noble Integer 
